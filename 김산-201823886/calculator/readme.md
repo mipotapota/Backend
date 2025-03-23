@@ -1,6 +1,6 @@
 # 간단한 계산기 제작
 ## 최대한 책의 내용을 보면서 만들었고 계산 결과값이 도출 간단한 계산기 제작
-## 최대한 책의 내용을 보면서 만들었고 계산 결과값이 잘 나오지않아 https://youtu.be/FnFxhF0kkEM?si=XB6-brubOcOPttO_ 을 참고하며 만들어봄. 그럼에도 결과값이 자꾸 0으로 나와 Monica AI의 도움을 받아 완성하였음. ![스크린샷 2025-03-23 204914](https://github.com/user-attachments/assets/bae4f1a8-c43a-4e74-aeb6-8fc9c5b34c72) (처음 작성했던 코드) 아래에 나올 코드는 Monica AI의 도움을 받아 작성한 코드.
+## 최대한 책의 내용을 보면서 만들었고 계산 결과값이 잘 나오지않아 https://youtu.be/FnFxhF0kkEM?si=XB6-brubOcOPttO_ 을 참고하며 만들어봄.                           그럼에도 결과값이 자꾸 0으로 나와 Monica AI의 도움을 받아 완성하였음. ![스크린샷 2025-03-23 204914](https://github.com/user-attachments/assets/bae4f1a8-c43a-4e74-aeb6-8fc9c5b34c72) (처음 작성했던 코드) 아래에 나올 코드는 Monica AI의 도움을 받아 작성한 코드.
 ### boolean validOperation = true;는 연산의 유효성을 나타내는 변수.
 ### boolean: 이 데이터 타입은 true(참) 또는 false(거짓) 두 가지 값만 가질 수 있음.
 ### validOperation: 이 변수는 연산이 유효한지 여부를 저장함. 처음에는 true로 설정하여 연산이 유효하다고 가정함.
